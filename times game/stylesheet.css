@@ -1,0 +1,78 @@
+h3{
+    text-align: center;
+    color:rgb(246, 244, 244);
+    font-size: 30px;
+    padding:0px;
+    margin:50px;
+    float: left;
+    padding-left: 5px;
+}
+h4{
+    display: none;
+    color:aliceblue;
+    font-size: 30px;
+    padding:0px;
+    margin:0px;
+    float: right;
+    padding-left: 5px;
+}
+
+p1{
+    text-align: justify;
+    color:rgb(242, 234, 234);
+    font-size: 30px;
+    padding:0px;
+    margin:50px;
+    float:left;
+    padding-left: 0px;
+    
+}
+
+h2{
+    text-align: center;
+    color:aliceblue;
+    font-size: 150px;
+    padding:5px;
+    margin:30px;
+    
+}
+body{
+    background-color:lightslategrey;
+}
+.buttons{
+    text-align: center;
+}
+#reset{
+    font-size: 20px;
+    cursor:pointer;
+    color:aliceblue;
+    background-color: red;
+    font-family:'Shadows Into Light';
+  
+    
+}
+#click{
+    font-size: 20px;
+    cursor:pointer;
+    color:aliceblue;
+    background-color: blue;
+    font-family:'Shadows Into Light'
+}
+#submit{
+    font-size: 20px;
+    cursor:pointer;
+    color:aliceblue;
+    background-color: green;
+    font-family:'Shadows Into Light'
+}
+#cps{
+    font-size: 20px;
+    cursor:pointer;
+    color: black;
+    background-color: yellow;
+    font-family:'Shadows Into Light'
+    
+}
+
+
+
